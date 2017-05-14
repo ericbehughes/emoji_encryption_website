@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Unicode Experiment</title>
+  <style>
+    * {padding: 5px; margin: 5px;}
+    body, html, #wrapper { height: 80%;}
+    section { border: solid 1px; width:400px; float:left;}
+  </style>
+  <script src="http://twemoji.maxcdn.com/2/twemoji.min.js?2.2.3"></script>
+  <script src="resources/codePointAt/codePointAt.js"></script>
+  <script src="resources/fromCodePoint/fromCodePoint.js"></script>
+</head>
+<body>
+<script>
+"use strict";
+
+function experiments(name, decimalCodePoint, str) {
+  var parent = document.createElement("section");
+  document.body.appendChild(parent);
+  var append = function (text) {
+    var p = document.createElement("p");
+    p.textContent = text;
+    parent.appendChild(p);
+    return p;
+  };
+  append(name);
+  append(str);
+  append("length: " + str.length)
+  append("character 0: " + str[0]);
+  append("Decimal code point: " + decimalCodePoint);
+  var hex = decimalCodePoint.toString(16);
+  append("Hex code point: U+" + hex);
+  append("Converting back to decimal: " + parseInt(hex, 16));
+  append("String.fromCharCode: " + String.fromCharCode(decimalCodePoint));
+  append("String.fromCodePoint: " + String.fromCodePoint(decimalCodePoint));
+  append("Escape sequence is equivalent to fromCodePoint: " +
+      (str == String.fromCodePoint(decimalCodePoint)));
+  append().innerHTML = twemoji.parse("Result of twemoji.parse: " + str);
+
+
+}
+
+window.onload = function () {
+  experiments("Letter A", 65, "\u0041");
+  // note the surrogate pair: two escape sequences
+  experiments("Pile of poo", 128169, "\uD83D\uDCA9");
+  console.log("Pile of poo")
+  console.log("\uD83D\uDCA9");
+  console.log("First half");
+  console.log("\uD83D");
+  console.log("Second half");
+  console.log("\uDCA9");
+  console.log("Reversed");
+  console.log("\uDCA9\uD83D");
+
+  var parent = document.createElement("section");
+  document.body.appendChild(parent);
+  parent.appendChild(document.createTextNode("\uD83D"));
+  parent.appendChild(document.createTextNode("\uDCA9"));
+
+};
+
+</script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<script src="utilities.js"></script>
+		<script src="index.js"></script>
+		<script src="http://twemoji.maxcdn.com/2/twemoji.min.js?2.2.3"></script>
+		<script src="13_unicode/resources/codePointAt/codePointAt.js"></script>
+		<script src="13_unicode/resources/fromCodePoint/fromCodePoint.js"></script>
+		<div class="topnav" id="myTopnav">
+				<a href="about.html">About</a>
+				<a href="wizard.html">Wizard</a>
+				<a href="#decrypt">Decrypt</a>
+				<a href="index.html">Encrypt</a>
+		</div>
+	</head>
+<body>
+<div id="pagewrap">
+	<header>
+     <link rel="stylesheet" href="index.css">
+		 <h2>Decrypt </h2>
+	</header>
+	<div id="encrypt-text">
+		<h2>Encrypted</h2>
+		<p>Hopefully you saved your secret message to decode!
+		</p>
+		<p>
+			Paste your message in the textbox below and pick the key that was used to encrypt the original message
+		</p>
+		<p>
+
+		</p
+		<form action="">
+			<input type="text" id="decryptMessageBox" name="decrypMessageBox" placeholder="Enter your encrypted message to decrypt"value="">
+			<br>
+
+	</div>
+
+	<!--end of col1-->
+
+	<div id="middle">
+		<h2>Pick your key</h2>
+		<form id="pickyourkeybuttons">
+			<input type="radio" name="keyToggle" value="Regular"checked="checked"> Regular
+ 			<input type="radio"  name="keyToggle"value="Weather"> Weather
+			</form>
+			<input type="text" id="weatherTextBox" name="weatherTextBox" placeholder="Enter city here"value="">
+		</form>
+
+		<div class="emojiContainer" id="emojiContainer">
+
+		</div>
+	</div>
+	<div id="encrypted-text">
+			<h2>UnEncrypted</h2>
+			<div  id = "encryptedMessage"div class="emojiContainer">
+
+			</div>
+	</div>
+	<footer>
+		<h4>Web Encryption Inc</h4>
+		<p>ehughes - 2017</p>
+	</footer>
+</div>
+</body>
+</html>

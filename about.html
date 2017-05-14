@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="wizard.css">
+  <script src="utilities.js"></script>
+  <script src="index.js"></script>
+  <script src="http://twemoji.maxcdn.com/2/twemoji.min.js?2.2.3"></script>
+  <script src="13_unicode/resources/codePointAt/codePointAt.js"></script>
+  <script src="13_unicode/resources/fromCodePoint/fromCodePoint.js"></script>
+  <div class="topnav" id="myTopnav">
+    <a href="about.html">About</a>
+    <a href="wizard.html">Wizard</a>
+    <a href="decrypt.html">Decrypt</a>
+    <a href="index.html">Encrypt</a>
+  </div>
+</head>
+
+<body>
+  <div id="pagewrap">
+    <header>
+      <link rel="stylesheet" href="index.css">
+      <h2>About Us </h2>
+    </header>
+    <div id="encrypt-text">
+      <h2>1. History</h2>
+      <p>I am a simple c# and js developer who was asked to build an encryption website as an exercise to display my programming skills.
+      </p>
+      <p>
+        Encryption at the beginning sounds really scary but our class found a way to make it fun!
+      </p>
+      <p>I am a simple c# and js developer who was asked to build an encryption website as an exercise to display my programming skills.
+      </p>
+
+    </div>
+
+    <!--end of col1-->
+    <div id="middle">
+      <div id="about-test">
+        <h2>2. Mission</h2>
+        <p>I was able to create this application from the help of codePoint library and Twemoji library with their nice polyfill for backwards compatibility for older browsers since emojis are a somewhat new thing</p>
+        <p>I am trying to perfect my problem solving skills in programming and apply them to other fields of my life. Whether that is other forms of engineering, finance or personal goals.</p>
+      </div>
+    </div>
+    <div id="encrypted-text">
+      <h2>3. Vision</h2>
+      <p>I hope you enjoyed this small biography of me and how encryption is supposed to be viewed as an "approchable" and "good" thing. Privacy is a big deal now that the internet has become what it is today</p>
+      <p>I will do what I can in my life to contribute utility back to society either through my programming skills or passion for entrepreneurship</p>
+
+      <div id="encryptedMessage"></div>
+    </div>
+    <footer>
+      <p>Contact Us</p>
+      <form id="pickyourkeybuttons">
+        <input type="text" name="contactUsForm" placeholder="Name" value="">
+        <input type="text" name="contactUsForm" placeholder="Email" value="">
+        <input type="text" name="contactUsForm" placeholder="Message" value="">
+        <input type="submit"  name="contactUsForm"  value="Submit">
+      </form>
+      <p>WebEncryption - 2017</p>
+    </footer>
+  </div>
+</body>
+
+</html>

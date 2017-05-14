@@ -1,0 +1,38 @@
+[
+{
+  "weatherCondition": "clear",
+  "emoji": "🌞",
+  "hex": "U+1F31E"
+},
+{
+  "weatherCondition": "clouds",
+  "emoji": "🌥",
+  "hex": "U+1F325"
+},
+{
+  "weatherCondition": "snow",
+  "emoji": "🌨",
+  "hex": "U+1F328"
+},
+{
+  "weatherCondition": "rain",
+  "emoji": "🌧",
+  "hex": "U+1F327"
+},
+{
+  "weatherCondition": "drizzle",
+  "emoji": "🌦",
+  "hex": "U+1F326"
+},
+{
+  "weatherCondition": "thunderstorm",
+  "emoji": "🌩",
+  "hex": "U+1F329"
+},
+{
+  "weatherCondition": "extreme",
+  "emoji": "🌪",
+  "hex": "U+1F32A"
+}
+
+]

@@ -1,0 +1,531 @@
+[
+{
+  "number": 0,
+  "emoji": "😀",
+  "codePoint": 128512,
+  "url": "/grinning-face/"
+},
+{
+  "number": 1,
+  "emoji": "😁",
+  "codePoint": 128513,
+  "url": "/grinning-face-with-smiling-eyes/"
+},
+{
+  "number": 2,
+  "emoji": "😂",
+  "codePoint": 128514,
+  "url": "/face-with-tears-of-joy/"
+},
+{
+  "number": 3,
+  "emoji": "😃",
+  "codePoint": 128515,
+  "url": "/smiling-face-with-open-mouth/"
+},
+{
+  "number": 4,
+  "emoji": "😄",
+  "codePoint": 128516,
+  "url": "/smiling-face-with-open-mouth-and-smiling-eyes/"
+},
+{
+  "number": 5,
+  "emoji": "😅",
+  "codePoint": 128517,
+  "url": "/smiling-face-with-open-mouth-and-cold-sweat/"
+},
+{
+  "number": 6,
+  "emoji": "😆",
+  "codePoint": 128518,
+  "url": "/smiling-face-with-open-mouth-and-tightly-closed-eyes/"
+},
+{
+  "number": 7,
+  "emoji": "😉",
+  "codePoint": 128521,
+  "url": "/winking-face/"
+},
+{
+  "number": 8,
+  "emoji": "😊",
+  "codePoint": 128522,
+  "url": "/smiling-face-with-smiling-eyes/"
+},
+{
+  "number": 9,
+  "emoji": "😋",
+  "codePoint": 128523,
+  "url": "/face-savouring-delicious-food/"
+},
+{
+  "number": 10,
+  "emoji": "😎",
+  "codePoint": 128526,
+  "url": "/smiling-face-with-sunglasses/"
+},
+{
+  "number": 11,
+  "emoji": "😍",
+  "codePoint": 128525,
+  "url": "/smiling-face-with-heart-shaped-eyes/"
+},
+{
+  "number": 12,
+  "emoji": "😘",
+  "codePoint": 128536,
+  "url": "/face-throwing-a-kiss/"
+},
+{
+  "number": 13,
+  "emoji": "😗",
+  "codePoint": 128535,
+  "url": "/kissing-face/"
+},
+{
+  "number": 14,
+  "emoji": "😙",
+  "codePoint": 128537,
+  "url": "/kissing-face-with-smiling-eyes/"
+},
+{
+  "number": 15,
+  "emoji": "😚",
+  "codePoint": 128538,
+  "url": "/kissing-face-with-closed-eyes/"
+},
+{
+  "number": 17,
+  "emoji": "🙂",
+  "codePoint": 128578,
+  "url": "/slightly-smiling-face/"
+},
+{
+  "number": 18,
+  "emoji": "🤗",
+  "codePoint": 129303,
+  "url": "/hugging-face/"
+},
+{
+  "number": 19,
+  "emoji": "😇",
+  "codePoint": 128519,
+  "url": "/smiling-face-with-halo/"
+},
+{
+  "number": 20,
+  "emoji": "🤔",
+  "codePoint": 129300,
+  "url": "/thinking-face/"
+},
+{
+  "number": 21,
+  "emoji": "😐",
+  "codePoint": 128528,
+  "url": "/neutral-face/"
+},
+{
+  "number": 22,
+  "emoji": "😑",
+  "codePoint": 128529,
+  "url": "/expressionless-face/"
+},
+{
+  "number": 23,
+  "emoji": "😶",
+  "codePoint": 128566,
+  "url": "/face-without-mouth/"
+},
+{
+  "number": 24,
+  "emoji": "🙄",
+  "codePoint": 128580,
+  "url": "/face-with-rolling-eyes/"
+},
+{
+  "number": 25,
+  "emoji": "😏",
+  "codePoint": 128527,
+  "url": "/smirking-face/"
+},
+{
+  "number": 26,
+  "emoji": "😣",
+  "codePoint": 128547,
+  "url": "/persevering-face/"
+},
+{
+  "number": 27,
+  "emoji": "😥",
+  "codePoint": 128549,
+  "url": "/disappointed-but-relieved-face/"
+},
+{
+  "number": 28,
+  "emoji": "😮",
+  "codePoint": 128558,
+  "url": "/face-with-open-mouth/"
+},
+{
+  "number": 29,
+  "emoji": "🤐",
+  "codePoint": 129296,
+  "url": "/zipper-mouth-face/"
+},
+{
+  "number": 30,
+  "emoji": "😯",
+  "codePoint": 128559,
+  "url": "/hushed-face/"
+},
+{
+  "number": 31,
+  "emoji": "😪",
+  "codePoint": 128554,
+  "url": "/sleepy-face/"
+},
+{
+  "number": 32,
+  "emoji": "😫",
+  "codePoint": 128555,
+  "url": "/tired-face/"
+},
+{
+  "number": 33,
+  "emoji": "😴",
+  "codePoint": 128564,
+  "url": "/sleeping-face/"
+},
+{
+  "number": 34,
+  "emoji": "😌",
+  "codePoint": 128524,
+  "url": "/relieved-face/"
+},
+{
+  "number": 35,
+  "emoji": "🤓",
+  "codePoint": 129299,
+  "url": "/nerd-face/"
+},
+{
+  "number": 36,
+  "emoji": "😛",
+  "codePoint": 128539,
+  "url": "/face-with-stuck-out-tongue/"
+},
+{
+  "number": 37,
+  "emoji": "😜",
+  "codePoint": 128540,
+  "url": "/face-with-stuck-out-tongue-and-winking-eye/"
+},
+{
+  "number": 38,
+  "emoji": "😝",
+  "codePoint": 128541,
+  "url": "/face-with-stuck-out-tongue-and-tightly-closed-eyes/"
+},
+{
+  "number": 40,
+  "emoji": "🙁",
+  "codePoint": 128577,
+  "url": "/slightly-frowning-face/"
+},
+{
+  "number": 41,
+  "emoji": "😒",
+  "codePoint": 128530,
+  "url": "/unamused-face/"
+},
+{
+  "number": 42,
+  "emoji": "😓",
+  "codePoint": 128531,
+  "url": "/face-with-cold-sweat/"
+},
+{
+  "number": 43,
+  "emoji": "😔",
+  "codePoint": 128532,
+  "url": "/pensive-face/"
+},
+{
+  "number": 44,
+  "emoji": "😕",
+  "codePoint": 128533,
+  "url": "/confused-face/"
+},
+{
+  "number": 45,
+  "emoji": "😖",
+  "codePoint": 128534,
+  "url": "/confounded-face/"
+},
+{
+  "number": 46,
+  "emoji": "🙃",
+  "codePoint": 128579,
+  "url": "/upside-down-face/"
+},
+{
+  "number": 47,
+  "emoji": "😷",
+  "codePoint": 128567,
+  "url": "/face-with-medical-mask/"
+},
+{
+  "number": 48,
+  "emoji": "🤒",
+  "codePoint": 129298,
+  "url": "/face-with-thermometer/"
+},
+{
+  "number": 49,
+  "emoji": "🤕",
+  "codePoint": 129301,
+  "url": "/face-with-head-bandage/"
+},
+{
+  "number": 50,
+  "emoji": "🤑",
+  "codePoint": 129297,
+  "url": "/money-mouth-face/"
+},
+{
+  "number": 51,
+  "emoji": "😲",
+  "codePoint": 128562,
+  "url": "/astonished-face/"
+},
+{
+  "number": 52,
+  "emoji": "😞",
+  "codePoint": 128542,
+  "url": "/disappointed-face/"
+},
+{
+  "number": 53,
+  "emoji": "😟",
+  "codePoint": 128543,
+  "url": "/worried-face/"
+},
+{
+  "number": 54,
+  "emoji": "😤",
+  "codePoint": 128548,
+  "url": "/face-with-look-of-triumph/"
+},
+{
+  "number": 55,
+  "emoji": "😢",
+  "codePoint": 128546,
+  "url": "/crying-face/"
+},
+{
+  "number": 56,
+  "emoji": "😭",
+  "codePoint": 128557,
+  "url": "/loudly-crying-face/"
+},
+{
+  "number": 57,
+  "emoji": "😦",
+  "codePoint": 128550,
+  "url": "/frowning-face-with-open-mouth/"
+},
+{
+  "number": 58,
+  "emoji": "😧",
+  "codePoint": 128551,
+  "url": "/anguished-face/"
+},
+{
+  "number": 59,
+  "emoji": "😨",
+  "codePoint": 128552,
+  "url": "/fearful-face/"
+},
+{
+  "number": 60,
+  "emoji": "😩",
+  "codePoint": 128553,
+  "url": "/weary-face/"
+},
+{
+  "number": 61,
+  "emoji": "😬",
+  "codePoint": 128556,
+  "url": "/grimacing-face/"
+},
+{
+  "number": 62,
+  "emoji": "😰",
+  "codePoint": 128560,
+  "url": "/face-with-open-mouth-and-cold-sweat/"
+},
+{
+  "number": 63,
+  "emoji": "😱",
+  "codePoint": 128561,
+  "url": "/face-screaming-in-fear/"
+},
+{
+  "number": 64,
+  "emoji": "😳",
+  "codePoint": 128563,
+  "url": "/flushed-face/"
+},
+{
+  "number": 65,
+  "emoji": "😵",
+  "codePoint": 128565,
+  "url": "/dizzy-face/"
+},
+{
+  "number": 66,
+  "emoji": "😡",
+  "codePoint": 128545,
+  "url": "/pouting-face/"
+},
+{
+  "number": 67,
+  "emoji": "😠",
+  "codePoint": 128544,
+  "url": "/angry-face/"
+},
+{
+  "number": 68,
+  "emoji": "👿",
+  "codePoint": 128127,
+  "url": "/imp/"
+},
+{
+  "number": 69,
+  "emoji": "😈",
+  "codePoint": 128520,
+  "url": "/smiling-face-with-horns/"
+},
+{
+  "number": 70,
+  "emoji": "👦",
+  "codePoint": 128102,
+  "url": "/boy/"
+},
+{
+  "number": 71,
+  "emoji": "👧",
+  "codePoint": 128103,
+  "url": "/girl/"
+},
+{
+  "number": 72,
+  "emoji": "👨",
+  "codePoint": 128104,
+  "url": "/man/"
+},
+{
+  "number": 73,
+  "emoji": "👩",
+  "codePoint": 128105,
+  "url": "/woman/"
+},
+{
+  "number": 74,
+  "emoji": "👴",
+  "codePoint": 128116,
+  "url": "/older-man/"
+},
+{
+  "number": 75,
+  "emoji": "👵",
+  "codePoint": 128117,
+  "url": "/older-woman/"
+},
+{
+    "number": 76,
+    "emoji": "👶",
+    "codePoint": 128118,
+    "url": "/baby/"
+  },
+  {
+    "number": 77,
+    "emoji": "👱",
+    "codePoint": 128113,
+    "url": "/person-with-blond-hair/"
+  },
+  {
+    "number": 78,
+    "emoji": "👮",
+    "codePoint": 128110,
+    "url": "/police-officer/"
+  },
+  {
+    "number": 79,
+    "emoji": "👲",
+    "codePoint": 128114,
+    "url": "/man-with-gua-pi-mao/"
+  },
+  {
+    "number": 79,
+    "emoji": "👲",
+    "codePoint": 128114,
+    "url": "/man-with-gua-pi-mao/"
+  },
+  {
+    "number": 80,
+    "emoji": "👳",
+    "codePoint": 128115,
+    "url": "/man-with-turban/"
+  },
+  {
+    "number": 81,
+    "weatherCondition": "clear",
+    "emoji": "🌞",
+    "codePoint": 127774,
+    "hex": "U+1F31E"
+  },
+  {
+    "number": 82,
+    "weatherCondition": "clouds",
+    "emoji": "🌥",
+    "codePoint": 127781,
+    "hex": "U+1F325"
+  },
+  {
+    "number": 83,
+    "weatherCondition": "snow",
+    "emoji": "🌨",
+    "codePoint": 127784,
+    "hex": "U+1F328"
+  },
+  {
+    "number": 84,
+    "weatherCondition": "rain",
+    "emoji": "🌧",
+    "codePoint": 127783,
+    "hex": "U+1F327"
+  },
+  {
+    "number": 85,
+    "weatherCondition": "drizzle",
+    "emoji": "🌦",
+    "codePoint": 127782,
+    "hex": "U+1F326"
+  },
+  {
+    "number": 86,
+    "weatherCondition": "thunderstorm",
+    "emoji": "🌩",
+    "codePoint": 127785,
+    "hex": "U+1F329"
+  },
+  {
+    "number": 87,
+    "weatherCondition": "extreme",
+    "emoji": "🌪",
+    "codePoint": 127786,
+    "hex": "U+1F32A"
+  }
+]
