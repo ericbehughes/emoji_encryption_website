@@ -610,7 +610,7 @@ function checkFirstVisitCookie() {
   var c = document.cookie;
   if (c.indexOf("visited") === -1) {
     document.cookie = "visited=yes;";
-    location.href = "index.html";
+    //location.href = "index.html";
   }
 
 }
